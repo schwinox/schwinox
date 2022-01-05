@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kingsley Kalu
+- 👀 I’m interested in developing websites and any other related projects.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on projects that need html, css and php.
+- 📫 you can reach me on (email: schwinox@gmail.com or +233-244054772)
